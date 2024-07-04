@@ -16,6 +16,7 @@ function makeid(length) {
 }
 
 const parametrosRed = {
+  wifi: "wifiArriba",
   red: "192.168.1.0",
   mask: "255.255.255.0",
   enlace: "192.168.1.1",
